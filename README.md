@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Nicolás Rivas Castillo</h1>
+<h1 align="center"> Nicolas Rivas Castillo</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas · Universidad Santiago de Cali 🎓</h3>
 
 <p align="center">
