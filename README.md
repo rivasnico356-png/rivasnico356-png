@@ -43,7 +43,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [**ejercicios-lenguajes**](https://github.com/rivasnico356-png/ejercicios-lenguajes) | Ejercicios de programación para practicar lógica, estructuras de datos y fundamentos del lenguaje. | Python |
+| [**Practicas curso de lengujaes de progrmación**](https://github.com/rivasnico356-png/ejercicios-lenguajes) | Ejercicios de programación para practicar lógica, estructuras de datos y fundamentos del lenguaje. | Python |
 
 > 🔧 Más proyectos en camino.
 
